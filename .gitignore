@@ -1,3 +1,6 @@
 RAW_interactions.csv.gz
 RAW_recipes.csv.gz
 /venv
+/data
+.DS_Store
+/.ipynb_checkpoints
