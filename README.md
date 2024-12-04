@@ -30,10 +30,10 @@ This dataset includes over 230K+ recipes and 1.1M+ recipe reviews spanning 18 ye
 At first glance, a lot of values seemed to have interesting correlations to each other, such as 'minutes', 'n_steps', and 'n_ingredients' may affect the user's 'rating' because it could be a burden to cook a complicated recipe and may lead to a lower rating.
 We have summarized the properties of the dataset and were able to retrieve the following results:
 
-<img src=img/fig1_data_summary.png width=250>
-<img src=img/fig2_data_ratings.png width=357>
-<img src=img/fig3_data_ingredients.png width=350>
-<img src=img/fig4_data_recipe_sub.png width=354>
+| <img src="img/fig1_data_summary.png" width="250"> | <img src="img/fig2_data_ratings.png" width="357"> |
+|---------------------------------------------------|---------------------------------------------------|
+| <img src="img/fig3_data_ingredients.png" width="350"> | <img src="img/fig4_data_recipe_sub.png" width="354"> |
+
 
 ### Analysis
 
